@@ -1,0 +1,21 @@
+h1 {
+  color: red;
+}
+
+h2 {
+  font-family: serif;
+}
+.img {
+  height: 200px;
+  width: 100;
+}
+
+.important {
+  color: green;
+}
+
+.warning {
+  color: red;
+  font-size: 30px;
+
+}
